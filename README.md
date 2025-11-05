@@ -17,10 +17,6 @@ Kurulum ve Çalıştırma
 
 Bu proje, tüm bağımlılıkları içeren bir Docker konteyneri ile çalışmak üzere tasarlanmıştır.
 
-### 1. Projeyi Klonlama
-
-Projeyi yerel makinenize indirmek için:
-
 ```bash
 git clone https://github.com/layddcat/bilet-satin-alma.git
 cd bilet-satin-alma
