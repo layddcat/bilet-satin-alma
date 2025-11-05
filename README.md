@@ -23,7 +23,7 @@ cd bilet-satin-alma
 docker compose up --build -d
 http://localhost:8080
 ```
-## 🔑 Tanımlı Test Hesapları
+## Test Kullanıcı Hesapları
 
 Sistemi test etmek için veritabanında (`bsap.db`) önceden tanımlanmış test hesapları bulunmaktadır.
 
