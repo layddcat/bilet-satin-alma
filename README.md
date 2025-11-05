@@ -22,6 +22,7 @@ git clone https://github.com/layddcat/bilet-satin-alma.git
 cd bilet-satin-alma
 docker compose up --build -d
 http://localhost:8080
+```
 
 Rol,E-posta,Şifre,Açıklama
 Admin,admin@bsap.com,admin123,Tüm yetkilere sahip yönetici.
